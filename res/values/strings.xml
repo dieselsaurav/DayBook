@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DayBook</string>
+    <string name="add_entry">Add Entry</string>
+    <string name="cancel">Cancel</string>
+	<string name="unsaved_changes_title">Unsaved Changes</string>
+    <string name="unsaved_changes_message">Would you like to add this entry?</string>
+    <string name="discard">Discard</string>
+    
+    <string name="entry_flag_prompt">Choose Credit or Debit</string>
+    <string-array name="entry_flag_array">
+    	<item>Credit</item>
+    	<item>Debit</item>
+    </string-array>
+    	<string name="description">Description</string>
+    	<string name="amount">Amount</string>
+</resources>
